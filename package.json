@@ -1,0 +1,19 @@
+{
+  "name": "worried-farm",
+  "version": "1.0.0",
+  "description": "list creator",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trommelochse/worried-farm.git"
+  },
+  "author": "Clemens Janes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trommelochse/worried-farm/issues"
+  },
+  "homepage": "https://github.com/Trommelochse/worried-farm#readme"
+}
